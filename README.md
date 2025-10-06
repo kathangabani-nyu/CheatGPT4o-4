@@ -431,6 +431,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **WebRTC**: Google for peer-to-peer communication
 - **React**: Meta for the frontend framework
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cheatgpt_4o_4?style=social)](https://twitter.com/cheatgpt_4o_4)
 
 </div>

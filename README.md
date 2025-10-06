@@ -84,8 +84,8 @@ graph TB
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ohmpatel46/TrueSight
-   cd TrueSight
+   git clone https://github.com/kathangabani-nyu/CheatGPT4o-4
+   cd CheatGPT4o-4
    ```
 
 2. **Install dependencies:**
